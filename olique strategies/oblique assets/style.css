@@ -1,0 +1,479 @@
+@font-face {
+    font-family:"AkzidenzGroteskBQ-Medium";
+    src:url("fonts/AkzidenzGrotesk BQ Medium.woff2") format("woff2"),url("AkzidenzGrotesk BQ Medium.woff") format("woff"),url("AkzidenzGrotesk BQ Medium.otf") format("opentype");
+    font-style:normal;font-weight:400;}
+
+
+body{
+background-color: #e4eaf0;
+}
+
+
+.card1{
+	
+	height:350px;
+	width:450px;
+	background-color: white;
+	margin:10px;
+	border-radius: 6%;
+	position: absolute;
+	left:550px
+	top:700px;
+
+	}
+
+.card2{
+	height:350px;
+	width:450px;
+	background-color: white;
+	margin:10px;
+	border-radius: 6%;
+	 position: absolute;
+	 right:480px;
+	}
+
+.card3{
+	height:350px;
+	width:450px;
+	background-color: white;
+	margin:10px;
+	border-radius: 6%;
+	position: absolute;
+	right:0px;
+	}
+
+.card4{
+	height:350px;
+	width:450px;
+	background-color: white;
+	margin:10px;
+	border-radius: 6%;
+	position: absolute;
+	top:380px;
+	}
+
+.card5{height:350px;
+	width:450px;
+	background-color: white;
+	margin:10px;
+	border-radius: 6%;
+	position: absolute;
+	top:380px;
+	right:480px;
+
+	}
+
+
+.card6{height:350px;
+	width:450px;
+	background-color: white;
+	margin:10px;
+	border-radius: 6%;
+	position: absolute;
+	top:380px;
+	right: 0px;
+	}
+
+.card7{height:350px;
+	width:450px;
+	background-color: white;
+	margin:10px;
+	border-radius: 6%;
+	position: absolute;
+	top:760px;
+
+	}
+
+.card8{height:350px;
+	width:450px;
+	background-color: white;
+	margin:10px;
+	border-radius: 6%;
+	position: absolute;
+	right:480px;
+	top:760px;
+	}
+
+.card9{height:350px;
+	width:450px;
+	background-color: white;
+	margin:10px;
+	border-radius: 6%;
+	 position: absolute;
+	 right: 0px;
+	 top:760px;
+
+	}
+
+.card10{height:350px;
+	width:450px;
+	background-color: white;
+	margin:10px;
+	border-radius: 6%;
+	position: absolute;
+	top:1140px;
+	margin-bottom: 10px;
+	}
+
+
+
+
+
+
+.card11{height:350px;
+	width:450px;
+	background-color: white;
+	margin:10px;
+	border-radius: 6%;
+	position: absolute;
+	top:1140px;
+	right:480px;
+	margin-bottom: 10px;
+
+	}
+
+.card12{height:350px;
+	width:450px;
+	background-color: white;
+	margin:10px;
+	border-radius: 6%;
+	position: absolute;
+	top:1140px;
+	right: 0px;
+	margin-bottom: 10px;
+	
+}
+
+.container{
+height:1510px;
+background-color: #e4eaf0;
+width:1430px;
+position: absolute;
+right:5px;
+}
+
+.wordcase1{
+font-size:25px;
+position:absolute;
+font-family:AkzidenzGroteskBQ-Medium;
+
+top:110px;
+right:67px;
+}
+
+.wordcase2{
+font-size:25px;
+position:absolute;
+font-family:AkzidenzGroteskBQ-Medium;
+
+top:110px;
+right:67px;
+}
+
+
+.wordcase3{
+font-size:25px;
+position:absolute;
+font-family:AkzidenzGroteskBQ-Medium;
+color:red;
+top:110px;
+right:67px;
+}
+
+.wordcase3:hover{
+    color: black;
+    transition: ease 1s;
+}
+
+
+
+.wordcase4{
+font-size:25px;
+position:absolute;
+font-family:AkzidenzGroteskBQ-Medium;
+
+top:110px;
+right:67px;
+}
+
+.wordcase5{
+font-size:25px;
+position:absolute;
+font-family:AkzidenzGroteskBQ-Medium;
+
+top:110px;
+right:67px;
+}
+
+.wordcase6{
+font-size:25px;
+position:absolute;
+font-family:AkzidenzGroteskBQ-Medium;
+
+top:110px;
+right:67px;
+}
+
+.wordcase7{
+font-size:25px;
+position:absolute;
+font-family:AkzidenzGroteskBQ-Medium;
+
+top:110px;
+right:67px;
+}
+
+.wordcase8{
+font-size:25px;
+position:absolute;
+font-family:AkzidenzGroteskBQ-Medium;
+top:0px;
+right:100px;
+transition:ease 2s; 
+
+}
+
+.wordcase8:hover {
+  top: 110px;
+  right:67px;
+
+}
+
+
+
+
+
+
+.wordcase9{
+font-size:25px;
+position:absolute;
+font-family:AkzidenzGroteskBQ-Medium;
+
+top:110px;
+right:67px;
+}
+
+.wordcase10{
+font-size:25px;
+position:absolute;
+font-family:times new roman;
+font-weight:normal;
+top:110px;
+right:87px;
+transition:ease 2s; 
+
+}
+
+.wordcase10:hover {
+  top: 110px;
+  right:67px;
+  font-family:AkzidenzGroteskBQ-Medium;
+
+
+}
+
+
+
+.wordcase11{
+font-size:25px;
+position:absolute;
+font-family:AkzidenzGroteskBQ-Medium;
+
+top:110px;
+right:80px;
+}
+
+.wordcase12{
+font-size:25px;
+position:absolute;
+font-family:AkzidenzGroteskBQ-Medium;
+top:150px;
+right:67px;
+}
+
+
+
+
+.select {
+  width: 10px;
+  height: 60px;
+  background: transparent;
+  transition: width 2.5s, height 2s;
+  left:65px;
+	top:135px;
+	position:absolute;
+	opacity: 0.5;
+	outline: dashed ;;
+}
+
+.select:hover {
+  width: 315px;
+  height: 100px;
+}
+
+.hilight {
+  width: 10px;
+  height: 60px;
+  background: transparent;
+  transition: width 2.5s;
+  left:65px;
+	top:145px;
+	position:absolute;
+	opacity: 0.5;
+	background-color:lightblue;
+	opacity: 50%
+}
+
+.hilight:hover {
+  width: 315px;
+
+}
+.outa h1{
+	position:absolute;
+	top:10px;
+	right:-30px;
+	font-family:"AkzidenzGroteskBQ-Medium";
+	font-size:50px;
+	
+	border-right:4px solid ;
+	width:12ch;
+	white-space:nowrap;
+	overflow: hidden;
+	animation: animate-1 3s steps(20), animate-2 .5s infinite;
+}
+
+@keyframes animate-1{
+	0%{
+		width:0px;
+	}
+}
+@keyframes animate-2{
+	50%{
+		border-color: transparent;
+	}
+}
+
+.underline {
+  width: 10px;
+  height: 10px;
+  background: transparent;
+  transition: width 1.5s;
+  left:100px;
+	top:85px;
+	position:absolute;
+	
+	background-color:red;
+	
+}
+
+.underline:hover {
+  width: 160px;
+
+}
+
+.underline2 {
+ 	 width: 10px;
+ 	 height: 10px;
+  	background: transparent;
+  	transition: width ease 1.5s;
+  	left:00px;
+	top:85px;
+	position:absolute;
+	background-color:green;
+	
+}
+
+.underline2:hover {
+  width: 320px;
+
+}
+
+.dot{
+	background-color:#4287f5;
+	height:10px;
+	width:10px;
+	border-radius:50%;
+	position: absolute;
+	left:-10px;
+	bottom:-40px;
+}
+
+
+.dot2{
+	background-color:#4287f5;
+	height:10px;
+	width:10px;
+	border-radius:50%;
+	position: absolute;
+	left:320px;
+	bottom:-40px;
+	
+}
+
+.dot3{
+	background-color:#4287f5;
+	height:10px;
+	width:10px;
+	border-radius:50%;
+	position: absolute;
+	left:-10px;
+	bottom:140px;
+	
+}
+
+.dot4{
+	background-color:#4287f5;
+	height:10px;
+	width:10px;
+	border-radius:50%;
+	position: absolute;
+	left:320px;
+	bottom:140px;
+	}
+
+.dotbox{
+
+	background-color:transparent;
+	height:180px;
+	width:330px;
+	border-radius:0%;
+	position: absolute;
+	left:-5px;
+	bottom:-35px;
+	outline: dashed black ;
+	transition: width 2.5s, height 2s;
+	}
+
+
+.dotbox:hover
+{
+    height:200px;
+    width:340px;
+
+}
+
+.blink h1{
+position:absolute;
+top:10px;
+right:15px;
+font-family:"AkzidenzGroteskBQ-Medium";
+font-size:50px;
+border-right:4px solid ;
+white-space:nowrap;
+overflow:0px;
+animation: animate-0 0s steps(20), animate-2 .5s infinite;
+}
+
+a{
+	font-size:50px;
+position:absolute;
+font-family:AkzidenzGroteskBQ-Medium;
+width:300px;
+top:30px;
+right:0px;
+
+}
+
+	
+
+

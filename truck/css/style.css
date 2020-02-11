@@ -1,9 +1,11 @@
 
+
 @font-face {
-    font-family:"Cloister Black Light";
-    src:url("fonts/CloisterBlack.woff2") format("woff2"),url("CloisterBlack.woff") format("woff"),url("CloisterBlack.otf") format("opentype");
+    font-family:"DS Fette Gotisch";
+    src:url("../fonts/DSFetteGotisch.woff2") format("woff2"),url("../fonts/DSFetteGotisch.woff") format("woff"),url("../fonts/DSFetteGotisch.otf") format("opentype");
     font-style:normal;font-weight:400;
 }
+        
    
 .unit{
 	height:600px;
@@ -290,7 +292,7 @@ height:25px;
 }
 
 #bigtype{
-	font-family:"Cloister Black Light";
+	 font-family:"DS Fette Gotisch";
 	color:#c92a3f;
 	position: absolute;
 	height:300px;
