@@ -1,0 +1,68 @@
+@font-face {
+    font-family:"BemboStd";
+    src:url("fonts/BemboStd.woff2") format("woff2"),url("BemboStd.woff") format("woff"),url("BemboStd.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+        
+
+
+.container{
+	height:50vw;
+	width:30vw;
+	position:absolute;
+	left:34vw;
+	background-color:/#d9d0c1;
+	border:solid 2px lightgrey;
+
+	-webkit-transform-origin: 50% 0;
+    transform-origin: 50% 0;
+    -webkit-animation: swinging 12.5s ease-in-out forwards infinite;
+    animation: swinging 12.5s ease-in-out forwards infinite;
+	
+
+}
+
+.oh{
+	height:30vw;
+	width:30vw;
+	position:absolute;
+	top:20vw;
+	left:0vw;
+	background-color:lightgrey;
+	border-radius:50%;
+	
+}
+
+
+@-webkit-keyframes swinging{
+   0%{transform: rotate(50deg);}
+   25%{transform: rotate(-50deg);}
+   50%{transform: rotate(50deg);}
+   75%{transform: rotate(-50deg);}
+   100%{transform: rotate(50deg);}
+
+     
+
+
+@keyframes swinging{
+	    0%{transform: rotate(50deg);}
+   25%{transform: rotate(-50deg);}
+   50%{transform: rotate(50deg);}
+   75%{transform: rotate(-50deg);}
+   100%{transform: rotate(50deg);}
+   
+}
+
+
+
+}
+
+
+
+
+p {
+	position:absolute;
+	left:12vw;
+	font-size: 4vw;
+
+}
