@@ -1,10 +1,5 @@
-@font-face {
-    font-family:"BemboStd";
-    src:url("fonts/BemboStd.woff2") format("woff2"),url("BemboStd.woff") format("woff"),url("BemboStd.otf") format("opentype");
-    font-style:normal;font-weight:400;
-}
-        
-
+ 
+body
 
 .container{
 	height:50vw;
@@ -12,7 +7,7 @@
 	position:absolute;
 	left:34vw;
 	background-color:/#d9d0c1;
-	border:solid 2px lightgrey;
+	border:s/olid 2px lightgrey;
 
 	-webkit-transform-origin: 50% 0;
     transform-origin: 50% 0;
@@ -28,7 +23,7 @@
 	position:absolute;
 	top:20vw;
 	left:0vw;
-	background-color:lightgrey;
+	background-color:/lightgrey;
 	border-radius:50%;
 	
 }
@@ -60,9 +55,11 @@
 
 
 
-p {
+.number {
 	position:absolute;
-	left:12vw;
-	font-size: 4vw;
+	left:10vw;
+	bottom:-12vw;
+	font-size: 18vw;
+	font-family: futura;
 
 }
